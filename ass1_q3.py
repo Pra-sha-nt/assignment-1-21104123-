@@ -1,0 +1,6 @@
+x=(['SID', 'Name','Course','CGPA'])
+x[0]=int(input("enter your sid\n " ,))
+x[1]=input("enter your name\n")
+x[2]=input("enetr your course name\n")
+x[3]=float(input("enter your cgpa\n"))
+print(x)
